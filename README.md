@@ -30,8 +30,8 @@
 
 ---
 
-## 📸 Live Preview
-![image](https://github.com/user-attachments/assets/3bff2aef-5607-42a9-8ba5-0b95392bf60d)
+## 📸 Live Preview at
+
 
 
 ## 🚀 Getting Started
