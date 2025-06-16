@@ -43,7 +43,7 @@
 ### Installation
 
 ```bash
-git clone https://github.com/abhiii9vvv/ToDoFlow.git
+git clone https://github.com/Rohan-Hajare/Smart-ToDo-List-app.git
 cd ToDoFlow
 ````
 
